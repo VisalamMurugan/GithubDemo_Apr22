@@ -1,5 +1,5 @@
 class Main {
-
+//Add two numbers
   public static void main(String[] args) {
     
    int first = 40;
